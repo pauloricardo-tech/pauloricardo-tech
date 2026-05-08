@@ -1,4 +1,4 @@
-# Hi, I'm Paulo Ricardo  👋
+# Hi, I'm Paulo Ricardo 👋
 
 Software Developer focused on backend development, cloud technologies, and scalable systems.
 
